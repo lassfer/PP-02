@@ -1,0 +1,4 @@
+{"date": "2026-02-10", "total": 3, "waiting": 2, "issued": 0, "expired": 1}
+{"date": "2026-02-11", "total": 5, "waiting": 3, "issued": 1, "expired": 1}
+{"date": "2026-02-12", "total": 7, "waiting": 4, "issued": 1, "expired": 2}
+{"date": "2026-02-13", "total": 7, "waiting": 3, "issued": 2, "expired": 2}
